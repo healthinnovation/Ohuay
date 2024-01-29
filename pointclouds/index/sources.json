@@ -1,0 +1,1 @@
+{"bounds":{"min":[857970.01,8505426.99,3580.82],"max":[859625.45,8506499.53,3926.19]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"Ohuay_D.las","points":1803249,"bounds":{"min":[857970.01,8505426.99,3580.82],"max":[859625.45,8506499.53,3926.19]}}]}
